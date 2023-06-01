@@ -3,7 +3,7 @@ import {useState} from 'react';
 import {useNavigate} from 'react-router';
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
-import style from './SignUp.module.css'
+import style from './Signup.module.css'
 import Button from '@mui/material/Button';
 
 export default function Signup() {
